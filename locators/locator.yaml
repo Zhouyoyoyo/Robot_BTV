@@ -1,0 +1,10 @@
+LoginPage:
+  username_input:
+    by: id
+    value: username
+  password_input:
+    by: id
+    value: password
+  login_button:
+    by: id
+    value: loginBtn
